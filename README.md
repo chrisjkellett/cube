@@ -1,2 +1,2 @@
-# cube
-a css spinning cube
+## cube
+a 3d cube animated with css transform and transition
